@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/financialmodelb-teract-tutorial-x2x0j2li/",
+  "base_url": "/binder/jupyter/user/financialmodelb-teract-tutorial-b35dbkkr/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "GKhpL3YLRxqOQmRxWC0-Qg",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/financialmodelb-teract-tutorial-x2x0j2li/"
+  "token": "3UZaIfHeRJu4xdb9LpNGlA",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/financialmodelb-teract-tutorial-b35dbkkr/"
 }
